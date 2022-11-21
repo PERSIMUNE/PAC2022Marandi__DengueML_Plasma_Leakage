@@ -4,7 +4,7 @@ library("mlr3")
 library("plumber")  
 
 # loading the model globally for using the classifier 
-model<-get(load("DENV5F_AS.rda"))
+model<-get(load("DENV5F_AS_model.rda"))
 
 ### PLUMBER ANOTATIONS
 #  prediction function
