@@ -10,7 +10,7 @@ Tested on RStudio (R v4.1.2)
 2. Run the run_service.R in RStudio (make sure you have installed the required R packages: mlr3 and plumber). 
 3. It opens a new window in which the API is available to use (the API is also accessible on your web browser). 
 4. Please follow the descriptions in the API for usage.
-5. The model (DENV5F_AS.rda) can also individually be used inside R environment for prediction tasks.
+5. The model (DENV5F_AS_model.rda) can also individually be used inside R environment for prediction tasks.
 
 ## Citation
 TBA
