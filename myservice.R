@@ -1,13 +1,6 @@
 Sys.setenv(LANG = "en") # change R language to English!
 
 library("mlr3")
-library("mlr3pipelines")
-library("mlr3filters")
-library("mlr3learners")
-library("mlr3extralearners")
-library("mlr3tuning")
-
-# library(randomForest)
 library("plumber")  
 
 # loading the model globally for using the classifier 
