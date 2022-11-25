@@ -13,7 +13,7 @@ Tested on RStudio (R v4.1.2)
 5. The model (DENV5F_AS_model.rda) can also individually be used inside R environment for prediction tasks.
 
 ## API overview
-![model API screenshot](https://github.com/PERSIMUNE/PAC2022Marandi__DengueML_Plasma_Leakage/blob/main/screenshot.tif?raw=true)
+![model API screenshot](https://github.com/PERSIMUNE/PAC2022Marandi__DengueML_Plasma_Leakage/blob/main/screenshot.jpg?raw=true)
 
 ## Citation
 TBA
