@@ -20,4 +20,4 @@ Zargari Marandi, Ramtin, et al. "Development of a machine learning model for ear
 
 ## Correspondance
 Queries shall be forwarded to:
-ramtin.zargari.marandi@regionh.dk
+ramtin [DOT] zargari [DOT] marandi [AT] regionh [DOT] dk
